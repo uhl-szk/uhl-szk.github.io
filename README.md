@@ -1,1 +1,0 @@
-# uhl-szk.github.io

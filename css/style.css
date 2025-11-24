@@ -105,7 +105,7 @@ h1{
     height: 640px;
     background-color: #f1efff;
     border-bottom: #dddddd;
-    background: url("../img/top-main.jpg") no-repeat center center;
+    background: url("../img/img.png") no-repeat center center;
     background-size:cover;
 }
 #page-top .jumbotron-fluid .container{
@@ -245,7 +245,7 @@ h1.page-ttl {
 #page .jumbotron{
     background-color: #f1efff;
     border-bottom: #dddddd;
-    background: url("../img/top-main.jpg") no-repeat center center;
+    background: url("../img/img.png") no-repeat center center;
     background-size:cover;
     border-radius: initial;
 }
